@@ -10,7 +10,7 @@
 						<key>kind</key> 
 						<string>software-package</string> 
 						<key>url</key> 
-						<string>https://github.com/fengqingyundan6316/ceshi/blob/master/aaa.ipa</string> 
+						<string>https://github.com/fengqingyundan6316/ceshi/raw/main/aaa.ipa</string> 
 					</dict> 
 					<dict> 
 						<key>kind</key> 
@@ -34,7 +34,7 @@
 					<key>bundle-identifier</key> 
 					<string>cn.com.ecinc.EmoaIPhoneJY-WH</string> 
 					<key>bundle-version</key> 
-					<string>1.0</string> 
+					<string>1.1</string> 
 					<key>kind</key> 
 					<string>software</string> 
 					<key>subtitle</key> 
