@@ -1,0 +1,31 @@
+<?xml version="1.0" encode="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"> 
+<dict> 
+	<key>items</key> 
+	<array> 
+		<dict> 
+			<key>assets</key> 
+			<array> 
+				<dict> 
+					<key>kind</key> 
+					<string>software-package</string> 
+					<key>url</key> 
+					<string>https://github.com/fengqingyundan6316/ceshi/blob/9568a45349730b3f8610190fbeb3e673c7128b88/%E7%A7%BB%E5%8A%A8%E5%8A%9E%E5%85%AC%201.0%201.ipa</string> 
+					</dict> 
+				</array> 
+				<key>metadata</key> 
+				<dict> 
+					<key>bundle-identifier</key> 
+					<string>cn.com.ecinc.EmoaIPhoneJY-WH</string> 
+					<key>bundle-version</key> 
+					<string>1.1</string> 
+					<key>kind</key> 
+					<string>software</string> 
+					<key>title</key> 
+					<string>移动办公</string> 
+				</dict> 
+			</dict> 
+		</array> 
+	</dict> 
+</plist>
